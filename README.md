@@ -2,10 +2,9 @@
 
 🎨 Front-End Web Developer | 💡 UI/UX Enthusiast | 🚀 Tech Explorer  
 
-- 🔭 I’m currently working at **RAJ SOFTWARE SOLUTION**
-- 🌱 I’m learning **React.js, UI/UX, and Tailwind CSS**
+- 🌱 I’m learning **React.js, UI/UX**
 - 👯 I’m looking to collaborate on **open-source front-end projects**
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
 - ⚡ Fun fact: **I turn coffee ☕ into elegant code!**  
 
 📫 Reach me at: **[gunaljayaram@gmail.com](mailto:gunaljayaram@gmail.com)** | **[LINKED_IN/GUNAL](https://linkedin.com/in/gunal-j-68a72b227)**
