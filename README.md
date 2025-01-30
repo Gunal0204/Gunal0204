@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gunal  
 
-🎨 Front-End Web Developer | 💡 UI/UX Enthusiast | 🚀 Tech Explorer  
+🎨 Web Developer | 💡 UI/UX Enthusiast | 🚀 Tech Explorer  
 
 - 🌱 I’m learning **React.js, UI/UX**
 - 👯 I’m looking to collaborate on **open-source front-end projects**
