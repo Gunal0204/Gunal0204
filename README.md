@@ -2,10 +2,9 @@
 
 🎨 Web Developer | 💡 UI/UX Enthusiast | 🚀 Tech Explorer  
 
-- 🌱 I’m learning **React.js, UI/UX**
-- 👯 I’m looking to collaborate on **open-source front-end projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
-- ⚡ Fun fact: **I turn coffee ☕ into elegant code!**  
+I am a Junior Web Developer with a strong foundation in front-end and back-end development and a passion for writing clean, efficient code. After gaining 6 months of experience as a Front-End Developer, I have worked extensively with HTML, CSS, JavaScript, and Bootstrap, creating responsive and user-friendly web applications.
+Currently, I am expanding my expertise in Laravel and MySQL to build dynamic web applications. I have experience developing interactive UI designs, working with REST APIs, and using version control tools like Git. Additionally, I have worked on employment registration forms in C#, showcasing my adaptability to different technologies.
+I am enthusiastic about learning new technologies, best practices, and modern development methodologies to continuously improve my skills. A collaborative team player with strong problem-solving abilities, I am always eager to take on new challenges and contribute to impactful projects.
 
 📫 Reach me at: **[gunaljayaram@gmail.com](mailto:gunaljayaram@gmail.com)** | **[LINKED_IN/GUNAL](https://linkedin.com/in/gunal-j-68a72b227)**
 
